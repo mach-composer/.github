@@ -56,6 +56,8 @@ SAAS and Cloud services are provided.
 - [mach-composer-plugin-commercelayer](https://github.com/mach-composer/mach-composer-plugin-commercelayer)
 - [mach-composer-plugin-amplience](https://github.com/mach-composer/mach-composer-plugin-amplience)
 - [mach-composer-plugin-azure](https://github.com/mach-composer/mach-composer-plugin-azure)
+- [mach-composer-plugin-azure-minimal](https://github.com/mach-composer/mach-composer-plugin-azure-minimal)
+- [mach-composer-plugin-apollostudio](https://github.com/mach-composer/mach-composer-plugin-apollostudio)
 
 You can install these plugins by adding them in your MACH composer YAML
 configuration:
