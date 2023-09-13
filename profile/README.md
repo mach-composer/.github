@@ -1,7 +1,7 @@
 # MACH composer
 
 [![MACH
-composer](https://github.com/labd/mach-composer/blob/main/docs/src/_img/logo.png?raw=true)](https://docs.machcomposer.io)
+composer](https://github.com/mach-composer/mach-composer-cli/blob/main/docs/src/_img/logo.png?raw=true)](https://docs.machcomposer.io)
 
 MACH composer is a framework that you use to orchestrate and extend modern
 digital commerce & experience platforms, based on MACH technologies and cloud
@@ -15,14 +15,12 @@ ecosystem.
 
 ## MACH composer installation
 
-Currently, the [MACH composer source](https://github.com/labd/mach-composer) is
-still hosted in the Lab Digital organisation. Usually you don't need that for
-using MACH composer itself, as we have binaries available for several platforms.
+We have binaries available for several platforms. It's also possible to install MACH composer [from source](https://github.com/mach-composer/mach-composer-cli).
 
 ### MacOS
 
 ```bash
-brew tap labd/mach-composer
+brew tap mach-composer/mach-composer
 brew install mach-composer
 ```
 
@@ -32,9 +30,9 @@ brew install mach-composer
 choco install mach-composer --version=2.5.0
 ```
 
-## Github actions
+## GitHub Actions
 
-For integrating MACH composer into Github Action CI/CD workflows, we provide
+For integrating MACH composer into GitHub Action CI/CD workflows, we provide
 three actions:
 
 - [setup-mach-composer](https://github.com/mach-composer/setup-mach-composer):
