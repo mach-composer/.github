@@ -30,9 +30,9 @@ brew install mach-composer
 choco install mach-composer --version=2.5.0
 ```
 
-## Github actions
+## GitHub Actions
 
-For integrating MACH composer into Github Action CI/CD workflows, we provide
+For integrating MACH composer into GitHub Action CI/CD workflows, we provide
 three actions:
 
 - [setup-mach-composer](https://github.com/mach-composer/setup-mach-composer):
